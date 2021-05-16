@@ -6,11 +6,11 @@ This is a simple train schedule app written using nodejs.
 
 You need a Java JDK 7 or later and Gradle to run the build. You can run the build like this:
 
-    ./gradle build
+    gradle build
 
 You can run the app with:
 
-    ./gradle npm_start
+    gradle npm_start
 
 Once it is running, you can access it in a browser at http://localhost:8080
 
